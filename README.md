@@ -23,6 +23,7 @@ If you're looking for a vault that gets out of your way and lets you focus on yo
 
 ## Folder Structure
 
+```text
 00-Inbox/
 ├── Templates/
 ├──_Index/
@@ -36,6 +37,7 @@ If you're looking for a vault that gets out of your way and lets you focus on yo
 Archive/
 
 Linked-Files/
+```
 
 ## Philosophy
 
